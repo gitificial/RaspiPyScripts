@@ -1,1 +1,1 @@
-## Simple Raspberry Pi scripts
+## Simple Raspberry Pi Python scripts
